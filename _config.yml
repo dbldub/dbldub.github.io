@@ -2,6 +2,8 @@ title: dbldub.github.io
 description: 
 google_analytics: 
 show_downloads: true
+show_footer: false
+
 theme: jekyll-theme-minimal
 
 gems:
